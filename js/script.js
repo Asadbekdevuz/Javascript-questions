@@ -83,15 +83,15 @@ document.body.appendChild(btnLink);
 btnLink.setAttribute("href", "index.html");
 
 document.body.style.backgroundColor="#014E56";
-document.body.style.textAlign="left";
+document.body.style.textAlign="center";
 document.body.style.color="white";
-document.body.style.paddingLeft="35%";
+// document.body.style.paddingLeft="35%";
 
 
 textEleven.style.color="red";
 
-btnLink.style.display="inline-block";
-btnLink.style.marginLeft="10%";
+// btnLink.style.display="inline-block";
+// btnLink.style.marginLeft="10%";
 btnLink.style.backgroundColor="red";
 btnLink.style.border="solid 2px white";
 btnLink.style.textDecoration="none";
